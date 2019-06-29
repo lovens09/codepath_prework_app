@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lovens09/codepath_prework_app/blob/master/GIF%20walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [createur-editeur GIF](http://https://play.google.com/store/apps/details?id=com.gif.videotogif.gifeditor.gifmaker&hl=fr/).
 
 ## Notes
 
