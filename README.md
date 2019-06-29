@@ -4,7 +4,7 @@
 
 Submitted by: **Leon lovensky**
 
-Time spent: **15** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
